@@ -1,0 +1,158 @@
+.main-order-checkout {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow-y: scroll;
+  width: 100%;
+}
+
+.checkout-order-container, .checkout-details-container {
+  background-color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  width: 85%;
+}
+
+.checkout-details-container {
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.config-order-input {
+  padding-left: 60px;
+}
+
+.checkout-order-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 1vh;
+  margin-top: 3vh;
+
+}
+
+.checkout-order-container h3 {
+  margin-bottom: 10px;
+  text-align: left;
+  width: 100%;
+}
+
+.checkout-order-price {
+  align-items: center;
+  display: flex;
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+.checkout-order-price p {
+  margin: 0 5px;
+}
+
+.inputInfo {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px;
+  width: 100%;
+}
+
+.inputInfo input, select {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 1.5em;
+  margin-top: 3px;
+  text-align: center;
+  width: 20vw;
+}
+
+.inputInfo select {
+  height: 1.7em;
+}
+
+
+.divInputInfo {
+  display: flex;
+  margin: 10px 0;
+}
+
+.divInputInfo label {
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.config-input-info {
+  padding: 0 10px;
+}
+
+/* .divButton {
+  width: 300px;
+} */
+
+.button-checkout-order-container button {
+  background-color: rgb(242, 183, 5);
+  border-radius: 5px;
+  font-size: 1.15em;
+  font-weight: 700;
+  height: 5vh;
+  margin: 2vh 0;
+  width: 15vw;
+}
+
+.button-checkout-order-container button:hover {
+  background-color: rgb(242, 203, 5);
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+
+@media ( max-width : 360px ) and ( max-height : 800px ) { /* 360 x 800 */
+
+  .tableCar {
+    border: none;
+  }
+
+  .divInputInfo {
+    flex-direction: column;
+  }
+
+  .inputInfo {
+    margin: 0;
+  }
+
+  .inputInfo input {
+    width: 200px;
+  }
+
+  select {
+    width: 220px;
+  }
+
+  .button-checkout-order-container button {
+    font-size: 1em;
+    height: 5vh;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+    padding: 2px;
+    width: 30vw;
+  }
+
+  .checkout-order-container, .checkout-details-container {
+    margin-bottom: 0;
+    margin-top: 2vh;
+    padding: 10px 20px;
+  }
+
+  .config-order-input {
+    padding-left: 0;
+  }
+
+}
+

@@ -1,0 +1,7 @@
+.checkout-container-main {
+  align-items: flex-start;
+  display: flex;
+  height: 83vh;
+  justify-content: center;
+  width: 100vw;
+}

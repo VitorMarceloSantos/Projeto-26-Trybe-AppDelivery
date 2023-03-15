@@ -1,0 +1,18 @@
+.list-products-cotnainer {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%; /* 100% do valor da div Outlet */
+  justify-content: space-evenly;
+  overflow-y: scroll;
+  padding: 0 40px;
+  width: auto;
+}
+
+@media ( max-width : 360px ) and ( max-height : 800px ) { /* 360 x 800 */
+
+  .list-products-cotnainer {
+    padding: 10px 5px;
+  }
+
+}

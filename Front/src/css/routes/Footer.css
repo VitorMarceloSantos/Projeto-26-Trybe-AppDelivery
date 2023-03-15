@@ -1,0 +1,25 @@
+.footer-container {
+  align-items: center;
+  background-color: rgba(191, 126, 4);
+  display: flex;
+  justify-content: center;
+  padding: 3px;
+  position: absolute;
+}
+
+footer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+footer p {
+  font-size: 0.9em;
+  font-weight: 700;
+}
+
+footer small {
+  font-size: 0.9em;
+  font-weight: 7600;
+}
