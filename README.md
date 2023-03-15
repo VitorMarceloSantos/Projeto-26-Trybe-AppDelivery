@@ -21,11 +21,11 @@
 
 ##
 <h3>Galeria:</h3>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/login.png" title="Projeto - 26" alt="J"/><br/>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/newOrder.png" title="Projeto - 26" alt="J"/><br/>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/order.png" title="Projeto - 26" alt="J"/><br/>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/orderId.png" title="Projeto - 26" alt="J"/><br/>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/viewOrders.png" title="Projeto - 26" alt="J"/><br/>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/sellers.png" title="Projeto - 26" alt="J"/><br/>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/sellersId.png" title="Projeto - 26" alt="J"/><br/>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/adm.png" title="Projeto - 26" alt="J"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/login.png" title="Projeto - 26" alt="J" width="1000" height="1500"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/newOrder.png" title="Projeto - 26" alt="J" width="1000" height="1500"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/order.png" title="Projeto - 26" alt="J" width="1000" height="1500"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/orderId.png" title="Projeto - 26" alt="J" width="1000" height="1500"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/viewOrders.png" title="Projeto - 26" alt="J" width="1000" height="1500"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/sellers.png" title="Projeto - 26" alt="J" width="1000" height="1500"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/sellersId.png" title="Projeto - 26" alt="J" width="1000" height="1500"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Projeto-26-Trybe-AppDelivery/main/ImagesApp/adm.png" title="Projeto - 26" alt="J" width="1000" height="1500"/><br/>
